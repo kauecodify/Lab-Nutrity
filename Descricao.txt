@@ -1,0 +1,5 @@
+Esse projeto é bem simples, 
+visa o reconhecimento de cadastros alocados em algum laboratório e armazena
+os dados direto no local storage do navegador.
+
+Linguagens utilizadas >> HTML ; CSS e JAVASCRIPT.
